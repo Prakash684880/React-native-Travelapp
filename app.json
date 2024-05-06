@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "travelapp",
+    "slug": "travelapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/restaurant-store.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/restaurant-store.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff",
+      "height":50,
+      "width":50
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/restaurant-store.png",
+        "backgroundColor": "#ffffff",
+        "height":50,
+        "width":50
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
